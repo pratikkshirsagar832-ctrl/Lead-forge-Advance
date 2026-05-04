@@ -1,0 +1,35 @@
+{
+  "name": "leadforge-advance",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.3.4",
+    "@supabase/supabase-js": "^2.39.8",
+    "axios": "^1.6.8",
+    "date-fns": "^3.6.0",
+    "framer-motion": "^11.0.24",
+    "lucide-react": "^0.363.0",
+    "next": "^14.2.35",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.51.2",
+    "react-hot-toast": "^2.4.1",
+    "zod": "^3.22.4",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
